@@ -1,0 +1,47 @@
+body{
+	background-color: #d3c4a3;
+
+}
+
+
+.header-text{
+	text-align: left;
+	background-color: #cca65d;
+	line-height: 68px;
+}
+
+header{
+	text-align: center;
+	height: 69px;
+	background-color: 
+
+}
+
+.content{
+	background-color: white;
+	image-rendering:  center;
+	padding: 30px;
+	margin-left: 128px;
+	margin-right: 126px;
+}
+image{
+	background-color: #000000;
+	text-align: center;
+}
+footer{
+	text-align: center;
+	height: 71px;
+	background-color:#413827;
+}
+
+
+h1{ text-align: left;
+	font-style: italic;
+	
+}
+
+h2{
+	text-align: right;
+}
+
+
